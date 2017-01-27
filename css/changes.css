@@ -1,0 +1,26 @@
+.carousel-caption {
+  color: black;
+
+
+}
+.col-md-4 {
+
+}
+
+.btn {
+  background-color: lightblue;
+
+  display: flex;
+  justify-content: center;
+}
+
+.img-portfolio {
+  height: 250px;
+  width: 200px;
+  margin: 5px;
+}
+
+.img-about {
+  margin: 30px;
+
+}
